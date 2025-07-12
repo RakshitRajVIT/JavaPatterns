@@ -1,11 +1,11 @@
 // Pattern 03: Hollow Rectangle
-// This program prints a Hollow Rectangle using asterisks '*'
+// This program prints a Hollow Rectangle (Technically a square but it seems like rectangle) using asterisks '*'
 // Example output for n = 5:
 // *****
 // *   *
-// ***
-// **
-// *
+// *   *
+// *   *
+// *****
 package JavaPatterns;
 
 public class pattern03 {
